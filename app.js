@@ -7,6 +7,8 @@ const productsRouter = require("./routes/products");
 
 const app = express();
 
+console.log('Starting Express app');
+
 
 app.use(logger("dev"));
 app.use(express.json());
