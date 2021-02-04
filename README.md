@@ -50,3 +50,5 @@ $ DATABASE_HOST="localhost" \
 ```
 
 Now the database server is running on `localhost:5432` with a database called `product` created by a user called `product_robot` with password `pr0dr0b0t`.
+
+Make sure to check out the Humanitec docs!
